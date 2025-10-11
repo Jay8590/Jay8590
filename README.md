@@ -53,19 +53,10 @@
   <img src="https://img.shields.io/badge/Volatility-1E40AF?style=for-the-badge&logoColor=white" alt="Volatility"/>
   <br/>
 
-<!-- Contact Section -->
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:jaykawa56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+---
   <a href="https://linkedin.com/in/jaykawa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Ready%20to%20Defend%20Digital%20Assets!&fontSize=16&fontColor=fff" alt="Footer"/>
