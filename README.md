@@ -53,18 +53,6 @@
   <img src="https://img.shields.io/badge/Volatility-1E40AF?style=for-the-badge&logoColor=white" alt="Volatility"/>
   <br/>
 
-<!-- Stats Section -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay8590&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay8590&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay8590&theme=tokyonight" alt="jay8590" />
-</p>
-
 <!-- Contact Section -->
 ## 📫 Let's Connect!
 
