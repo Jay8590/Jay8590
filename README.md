@@ -76,6 +76,12 @@ jay = {
 
 ---
 
+## 📊 GitHub Stats
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&fontFamily=Afacad%20Flux&preferLogin=false">    <img  alt="Jay8590's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jay8590?cardType=octocat&theme=github-dark&fontFamily=Afacad%20Flux&preferLogin=false" />  </a>
+
+---
+
 ## 🏆 Certifications
 
 - 🥇 **TryHackMe** — Cyber Security 101 (Sep 2025)
