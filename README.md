@@ -74,15 +74,6 @@ jay = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jay8590&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay8590&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" />
-
-</div>
-
 ---
 
 ## 🏆 Certifications
@@ -104,8 +95,6 @@ jay = {
 <a href="https://linkedin.com/in/jaykawa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Jay8590">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 </div>
