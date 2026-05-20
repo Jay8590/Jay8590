@@ -53,6 +53,9 @@ jay = {
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-B31B1B?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB0000?style=for-the-badge&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-22A699?style=for-the-badge&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-F2BE22?style=for-the-badge&logoColor=black)
 
 ### DFIR Tools
 ![Autopsy](https://img.shields.io/badge/Autopsy-555555?style=for-the-badge&logoColor=white)
@@ -74,11 +77,28 @@ jay = {
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&fontFamily=Afacad%20Flux&preferLogin=false">    <img  alt="Jay8590's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jay8590?cardType=octocat&theme=github-dark&fontFamily=Afacad%20Flux&preferLogin=false" />  </a>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jay8590&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay8590&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jay8590&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 TryHackMe
+
+<div align="center">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/jaykawa.png" alt="TryHackMe Badge" />
+
+</div>
 
 ---
 
@@ -101,6 +121,8 @@ jay = {
 <a href="https://linkedin.com/in/jaykawa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://github.com/Jay8590">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
