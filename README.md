@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=jay8590&label=Profile%20Views&color=00ff41&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff41?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=flat-square" />
 </p>
 
 </div>
@@ -18,12 +18,12 @@
 
 ```python
 jay = {
-    "role"      : "Security Engineer — DFIR Automation & Security Tooling",
+    "role"      : "Lead Software Developer — DFIR Automation & Security Tooling",
     "focus"     : ["DFIR", "SOC Operations", "Security Automation", "Threat Detection"],
     "built"     : "MyFRT — reduced forensic triage time by 90%",
-    "tools"     : ["Splunk", "Wazuh", "Elastic Stack", "Wireshark", "Python"],
+    "tools"     : ["Splunk", "Wazuh", "OpenSearch", "Wireshark", "Python"],
     "goal"      : "SOC Analyst / Security Engineer roles",
-    "location"  : "Mumbai, India",
+    "location"  : "Pune, India",
     "contact"   : "jaykawa56@gmail.com"
 }
 ```
@@ -39,9 +39,12 @@ jay = {
 | 🧠 **Core Engine** | Python automation workflows — cut triage time by **90%** |
 | 🖥️ **RAM Acquisition** | Live memory capture on Linux via Microsoft AVML |
 | 💾 **Disk Imaging** | Forensic images in E01 and raw DD formats |
+| 🔑 **Integrity Verification** | Hash verification (MD5/SHA-256) on E01 images to preserve evidentiary integrity |
+| 📋 **Event Log Parsing** | Automated EVTX parsing directly from E01/DD images |
 | 🔒 **Auth & RBAC** | JWT tokens + Role-Based Access Control |
-| ⚡ **Search** | Elasticsearch + MongoDB across **10GB+** forensic datasets |
+| ⚡ **Search & Storage** | OpenSearch + CouchDB across **100GB+** datasets — indexes pre-computed at ingestion for near-instant file browsing |
 | 🌐 **Backend** | Flask REST API — full evidence lifecycle management |
+| 📦 **Deployment** | Packaged as a Windows installer (NSIS) for analyst workstations |
 
 ---
 
@@ -50,12 +53,9 @@ jay = {
 ### SIEM & Security
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-003A63?style=for-the-badge&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-B31B1B?style=for-the-badge&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BB0000?style=for-the-badge&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-22A699?style=for-the-badge&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-F2BE22?style=for-the-badge&logoColor=black)
 
 ### DFIR Tools
 ![Autopsy](https://img.shields.io/badge/Autopsy-555555?style=for-the-badge&logoColor=white)
@@ -68,7 +68,8 @@ jay = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![NSIS](https://img.shields.io/badge/NSIS-Installer-blue?style=for-the-badge&logoColor=white)
 
 ### Offensive Security
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
@@ -77,26 +78,14 @@ jay = {
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jay8590&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay8590&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Jay8590&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎯 TryHackMe
-
-<div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/jaykawa.png" alt="TryHackMe Badge" />
+<img height="160" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jay8590?cardType=octocat&theme=dark&preferLogin=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay8590&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&langs_count=6" />
 
 </div>
 
@@ -121,8 +110,6 @@ jay = {
 <a href="https://linkedin.com/in/jaykawa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Jay8590">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 </div>
